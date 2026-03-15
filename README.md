@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dGFbAuUa)
+PS C:\Users\omman>  & 'C:\Program Files\Java\jdk-25.0.2\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\omman\AppData\Local\Temp\vscodesws_99e60\jdt_ws\jdt.ls-java-project\bin' 'BankDemo'
+
+Savings Account
+Deposited: 5000.0
+Withdrawn: 3000.0
+Balance: 2000.0
+
+Current Account
+Deposited: 2000.0
+Withdrawn: 6000.0
+Balance: -4000.0
